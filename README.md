@@ -2,12 +2,12 @@
 # Mapalo Kalala
 
 ## A. About Me
-* **FULL NAME : Mapalo kalala
-* **SCHOOL : SCHOOL OF INFORMATION COMMUNICATION AND TECHNOLOGY 🖥️ 
-* **YEAR OF STUDY: 2nd Year
+* **FULL NAME** : Mapalo kalala
+* **SCHOOL** : SCHOOL OF INFORMATION COMMUNICATION AND TECHNOLOGY 🖥️ 
+* **YEAR OF STUDY**: 2nd Year
 
 * **WHO IS MAPALO KALALA 🤔?**
-    I am a dedicated go-getter who thrives on transforming complex problems into scalabe solutions, forcusing my passion on **Artificial Intelligence**, **Machine Learing**, **Software and system development**
+  I am a dedicated go-getter who thrives on transforming complex problems into scalabe solutions, forcusing my passion on **Artificial Intelligence**, **Machine Learing**, **Software and system development**
 
 ## B. Future Plans in Tech
 * **What I want to become**: A versatile **Full Stack Developer** focused on building intelligent, end to end applications and systems, while developing expertise as an **AI/ML engineer**
